@@ -31,9 +31,8 @@ open http://127.0.0.1:8000/ on Mozilla / Chrome
 
 Admin login :
 
-username : creatingfutures
+username : 
 
-password : creatingfutures2@
+password : 
 
-(Additional Step) if you want to view database without downloading
-software go to http://127.0.0.1:8000/admin
+
