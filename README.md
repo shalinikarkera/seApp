@@ -3,8 +3,7 @@ Python >3.6 [3.7.6 preferred]
 
 django [ Install command in cmd : pip install django ]
 
-crispy forms [ Install commmand in cmd : pip install django-crispy
-forms ]
+crispy forms [ Install commmand in cmd : pip install django-crispy-forms ]
 
 pillow [ Install command in cmd : pip install pillow ]
 
